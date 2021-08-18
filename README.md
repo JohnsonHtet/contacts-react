@@ -14,3 +14,8 @@ Getting the server running on your local machine takes only a few steps:
 ## Getting Set Up For Contact App
 
 Getting set up to run on your local machine takes only a few steps:
+
+1. clone the project - `git clone https://github.com/Bhone15/contacts-react.git`
+2. `cd contacts-react`
+3. install its dependencies - `npm install` or `yarn add`
+4. start the react app with - `npm start` or `yarn start`
